@@ -41,17 +41,26 @@ h2 {
   width: 178px;
   height: 72px;
 }
-.rectangle2 {
-  width: 257px;
+  .rectangle2,.rectangle3{
+    width: 257px;
   height: 334px;
+  top: 201px;
   top: 201px;
   left: 760px;
   background: #e0d6ff;
   border: 7px solid #8666e1;
   position: absolute;
 }
+.rectangle2 {
+  left: 760px;
+}
 h3 {
   color: #472a9c;
+  top: 201px;
+  left: 760px;
+  background: #e0d6ff;
+  border: 7px solid #8666e1;
+  position: absolute;472a9c;
   font-weight: 700px;
   font-size: 30px;
   line-height: 36px;
@@ -61,11 +70,5 @@ h3 {
   height: 72px;
 }
 .rectangle3 {
-  width: 257px;
-  height: 334px;
-  top: 201px;
   left: 1135px;
-  background: #e0d6ff;
-  border: 7px solid #8666e1;
-  position: absolute;
 }
